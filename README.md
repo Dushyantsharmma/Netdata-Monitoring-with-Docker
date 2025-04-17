@@ -56,6 +56,6 @@ docker rm netdata
 🙋‍♂️ Author
 Aayush Kukade
 Aspiring DevOps/Cloud Engineer
-[LinkedIn](https://www.linkedin.com/in/aayushkukade/) • [Medium](https://medium.com/@sroy10012001)
+<br>[LinkedIn](https://www.linkedin.com/in/aayushkukade/) • [Medium](https://medium.com/@sroy10012001)
 <br>[This Repo Blog On Medium](https://medium.com/@sroy10012001/real-time-system-monitoring-with-netdata-using-docker-2864dbf62956)
 <br>[All Of My Task Blogs](https://medium.com/@sroy10012001/my-devops-internship-journey-with-elevate-labs-30-days-of-learning-d7252e409a20)
