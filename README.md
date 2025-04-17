@@ -27,7 +27,7 @@ Applications / Processes
 ![Apps Tabs](screenshots/apps.png)
 
 Alerts Monitoring
-![Alerts](screenshots/screenshot.png)
+![Alerts](screenshots/alerts.png)
 
 CPU Monitoring
 ![Cpu](screenshots/cpu.png)
