@@ -18,7 +18,7 @@ Dashboard Home
 ![Dashboard](screenshots/dashboard.png)
 
 System Monitoring
-![System](sceenshots/system.png)
+![System](screenshots/system.png)
 
 Network Monitoring
 ![Network](screenshots/network.png)
