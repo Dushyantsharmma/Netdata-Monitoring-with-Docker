@@ -17,39 +17,39 @@ http://localhost:19999
 # 📸 Screenshots
 ## Dashboard Home
 This is the main Netdata landing page showing the health overview.
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ## System Monitoring
 Real-time system-level stats: load average, uptime, and resource usage.
-![System](screenshots/system.png)
+![System](system.png)
 
 ## Network Monitoring
 Live bandwidth per interface, packet flow, errors, and drops.
 ## ![Network](screenshots/network.png)
 
 ## Applications / Processes
-![Apps Tabs](screenshots/apps.png)
+![Apps Tabs](apps.png)
 
 ## Alerts Monitoring
-![Alerts](screenshots/alerts.png)
+![Alerts](alerts.png)
 
 ## CPU Monitoring
-![Cpu](screenshots/cpu.png)
+![Cpu](cpu.png)
 
 ## Disk Monitoring
-![Disk](screenshots/disk.png)
+![Disk](disk.png)
 
 ## Docker Code :
 If Docker containers are running, you can view per-container resource usage.
-![Docker](screenshots/docker.png)
+![Docker](docker.png)
 
 ## Memory Monitoring :
 RAM usage, swap activity, and memory pressure visualized over time.
-![Memory](screenshots/memory.png)
+![Memory](memory.png)
 
 ## Onboard Page :
 Netdata offers an onboarding view that summarizes monitored dimensions and performance trends.
-![Onboard](screenshots/onboard.png)
+![Onboard](onboard.png)
 
 📚 What is Netdata?
 Netdata is a blazing-fast, real-time performance monitoring tool for your infrastructure. It collects thousands of metrics per second and presents them through a rich web dashboard.
